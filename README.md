@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singhal</h1>
-<h3 align="center">A passionate AIML & Robotic Engineer from India</h3>
+<h3 align="center">A Robotics and Natural Language Processing Engineer</h3>
 
 <table align="center">
   <tr>
@@ -11,9 +11,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsinghal021" alt="ayushsinghal021" /></a></p>
 
-- 🌱 I’m currently learning **Machine Learning and Neural Networks**
+- 🌱 I’m currently learning **LLMS and Generative AI**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning and Neural Networks**
+- 💬 Ask me about **Robotics, Machine Learning and Natural Language Processing**
 
 - 📫 How to reach me **ayushsinghal021@gmail.com**
 <hr>
@@ -34,7 +34,6 @@
   <li>🧠 Deep Learning</li>
   <li>💬 Natural Language Processing</li>
   <li>👁️‍🗨️ Computer Vision</li>
-  <li>🚨 Anomaly Detection</li>
   <li>🤖🧠💬👁️‍🗨️🚨 Artificial Intelligence</li>
 </ul>
 </h3>
