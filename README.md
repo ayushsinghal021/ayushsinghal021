@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singhal</h1>
-<h3 align="center">A Robotics and Natural Language Processing Engineer</h3>
+<h3 align="center">A Deep Learning and Natural Language Processing Engineer</h3>
 
 <table align="center">
   <tr>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **LLMS and Generative AI**
 
-- 💬 Ask me about **Robotics, Machine Learning and Natural Language Processing**
+- 💬 Ask me about **Deep Learning and Natural Language Processing**
 
 - 📫 How to reach me **ayushsinghal021@gmail.com**
 <hr>
